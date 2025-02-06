@@ -49,13 +49,13 @@ Traffic congestion and accidents are major concerns in urban areas. The challeng
 ## 🚀 How to Run the Project
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/your-username/smart-city-traffic-prediction.git
-   cd smart-city-traffic-prediction
+   git clone https://github.com/your-username/smart-city-traffic-ml.git
+   cd smart-city-traffic-ml
    ```
 2. **Set Up AWS Credentials:**
    - Configure AWS CLI with the correct permissions for S3 and SageMaker.
 3. **Run the Jupyter Notebook:**
-   - Open `smart_city_traffic.ipynb`
+   - Open the notebook
    - Follow the steps for data loading, preprocessing, training, and evaluation.
 4. **Deploy the Model:**
    ```python
